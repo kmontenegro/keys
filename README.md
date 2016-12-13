@@ -1,12 +1,10 @@
 # Keys
-CryptoKeys  
+CryptoKeys (updated December 2016)  
 
 ##Work  
 If you intend to contact me for movement work, please use the key below:
 ```  
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Version: Mailvelope v1.6.2
-Comment: https://www.mailvelope.com
 
 xsFNBFbQ9PEBEADGnEU10FLcJAV0N0wVqyIBPrYmX3CIFuQQsmqusuDLGLNy
 09rPivi+pwIMp/jsu2eFMSVNGumRAMc89+Y0bk9sHF1E35OGCpgMNNSxYXXE
@@ -99,3 +97,7 @@ U5wefg==
 
 ```
 It should fingerprint: `A35C 1CEE 2322 DBB4 D689 54B2 570E 86CB 412C E420`
+##Personal
+I'm moving away from keybased encryption for personal use by using (Tutanota)[https://tutanota.com/].
+
+My key information, should you need it, is below:
