@@ -98,6 +98,6 @@ U5wefg==
 ```
 It should fingerprint: `A35C 1CEE 2322 DBB4 D689 54B2 570E 86CB 412C E420`
 ##Personal
-I'm moving away from keybased encryption for personal use by using (Tutanota)[https://tutanota.com/].
+I'm moving away from keybased encryption for personal use by using [Tutanota](https://tutanota.com/).
 
 My key information, should you need it, is below:
